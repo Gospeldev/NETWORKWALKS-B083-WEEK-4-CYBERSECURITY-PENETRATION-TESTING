@@ -45,6 +45,10 @@ M3 — Secondary Data Exposure screenshots/m3-data-exposure/
 4. Strip metadata from documents before they are made available for download, and audit file storage locations for unintended public exposure.
 5. Apply least-privilege access to any internal HR/finance documents and ensure they are never reachable from the same storage path as patient-facing content.
 
+## Pentest Report
+[Mediroza_Pentest_Report.docx](https://github.com/user-attachments/files/32981764/Mediroza_Pentest_Report.docx)
+
+
 # 👨‍🦰 Author
 ### Chidozie Zoe Gospel
 Cybersecurity Professional B083

@@ -44,3 +44,9 @@ M3 — Secondary Data Exposure screenshots/m3-data-exposure/
 3. Apply strong, randomly generated encryption passwords/keys to any documents containing PHI, never user- or pattern-derived passwords.
 4. Strip metadata from documents before they are made available for download, and audit file storage locations for unintended public exposure.
 5. Apply least-privilege access to any internal HR/finance documents and ensure they are never reachable from the same storage path as patient-facing content.
+
+# 👨‍🦰 Author
+### Chidozie Zoe Gospel
+Cybersecurity Professional B083
+
+LinkedIn: https://www.linkedin.com/in/chidozie-gospel/
